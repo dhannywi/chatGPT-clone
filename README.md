@@ -1,5 +1,5 @@
 # chatGPT Clone
-![ChatGPT](https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/12/openai-chatgpt.jpg)
+![ChatGPT](https://static.wixstatic.com/media/5878e6_f9a6997a78704b5caf33f1989117f26d~mv2.png/v1/fill/w_1110,h_347,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5878e6_f9a6997a78704b5caf33f1989117f26d~mv2.png)
 
 A ChatGPT clone created using Django with OpenAI API integration. This project is under active development to improve the look and feel of the front-end design.
 
