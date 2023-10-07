@@ -1,5 +1,6 @@
 # chatGPT Clone
-![ChatGPT](https://getstream.io/blog/static/a44e96ff0e382eaa32734971ae54b43a/91ba9/Supercharging-Conversations-With-ChatGPT-2000x840px.webp)
+
+<img src='ChatGPT.webp'>
 
 A ChatGPT clone created using Django with OpenAI API integration. This project is under active development to improve the look and feel of the front-end design.
 
