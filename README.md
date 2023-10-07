@@ -1,5 +1,7 @@
-# chatGPT-clone
-A ChatGPT clone created using Django and OpenAI API integration. This project is under active development to improve the look and feel of the front-end design.
+# chatGPT Clone
+![ChatGPT](https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/12/openai-chatgpt.jpg)
+
+A ChatGPT clone created using Django with OpenAI API integration. This project is under active development to improve the look and feel of the front-end design.
 
 ## Installation
 Ensure that you have `Python 3.11.4` or higher installed, as well as the latest version of `pip` and `pipenv`.
