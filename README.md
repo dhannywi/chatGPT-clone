@@ -1,6 +1,6 @@
 # chatGPT Clone
 
-<img src='./images/ChatGPT.webp'>
+<img src='./django_chatbot/images/ChatGPT.webp'>
 
 A ChatGPT clone created using Django with OpenAI API integration. Current iteration of the project focuses on the backend framework and OpenAI API intergration. The front-end component is under active development to improve the look and feel of the UI design.
 
@@ -9,7 +9,7 @@ Ensure that you have `Python 3.11.4` or higher installed, as well as the latest 
 OpenAI API token is needed to run this project. You can get it at: https://platform.openai.com
 * `git clone https://github.com/dhannywi/chatGPT-clone.git` to clone repository
 * `pipenv shell` to activate a virtual environment with requirements installed
-*  Create a `.env` file inside `chatbot` folder and insert your OpenAI API token in this format: `OPENAI_API_KEY=XXX`. Replace `XXX` with the token generated for you by OpenAI API
+*  Create a `.env` file inside `chatbot` folder and insert your OpenAI API token in this format: `OPENAI_API_KEY=XXX`. Replace `XXX` with the API token generated for you by OpenAI
 
 ## Running the app
 Once the virtual environment is activated, we can run the app.
