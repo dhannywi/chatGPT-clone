@@ -1,8 +1,8 @@
 # chatGPT Clone
 
-<img src='ChatGPT.webp'>
+<img src='./images/ChatGPT.webp'>
 
-A ChatGPT clone created using Django with OpenAI API integration. This project is under active development to improve the look and feel of the front-end design.
+A ChatGPT clone created using Django with OpenAI API integration. Current iteration of the project focuses on the backend framework and OpenAI API intergration. The front-end component is under active development to improve the look and feel of the UI design.
 
 ## Installation
 Ensure that you have `Python 3.11.4` or higher installed, as well as the latest version of `pip` and `pipenv`.
